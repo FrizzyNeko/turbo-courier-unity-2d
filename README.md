@@ -62,7 +62,7 @@ The game encourages careful movement and route planning rather than reckless dri
 
 ## 📌 Development and Project Scope  Notes
 
-* Wallbound was developed alongside a structured Unity learning process.
+* Turbo Courier was developed alongside a structured Unity learning process.
 
 * This project is intentionally focused on core gameplay systems rather than full production polish.
 The goal was to design, implement, and connect fundamental mechanics such as movement, state handling, camera behavior, and game flow in a clean and extendable way.
